@@ -19,8 +19,8 @@ Use the 'help' command to display all commands and a short description
 
 # Basic commands
 
-set (varname) (varvalue) ==> set variable
-get (varname)            ==> get the value of a variable
-ret (varname)            ==> remove a variable
+set (varname) (varvalue) ==> set variable <br/>
+get (varname)            ==> get the value of a variable <br/>
+ret (varname)            ==> remove a variable <br/>
 
-use (scriptname)         ==> set the script you want to use
+use (scriptname)         ==> set the script you want to use <br/>

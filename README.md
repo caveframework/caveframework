@@ -17,7 +17,7 @@ Start the cave.py file
 
 Use the 'help' command to display all commands and a short description
 
-**Basic commands**
+# Basic commands
 
 set (varname) (varvalue) ==> set variable
 get (varname)            ==> get the value of a variable

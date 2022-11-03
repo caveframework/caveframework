@@ -4,9 +4,13 @@ about
 
 # Installation
 
+Clone the repoistory <br/>
 ```git clone https://github.com/caveframework/caveframework.git``` <br/>
+Cd in to the directory <br/>
 ```cd caveframework/``` <br/>
+Install the requirements <br/>
 ```python3 -m pip install requirements.txt``` <br/>
+Install the root requirements <br/>
 ```sudo python3 -m pip install requirements_root.txt``` <br/>
 
 # Usage

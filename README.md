@@ -13,4 +13,4 @@ about
 
 Start the cave.py file
 
-*INFO: use ```sudo python3 cave.py``` for access to all tools*
+**INFO: use ```sudo python3 cave.py``` for access to all tools**

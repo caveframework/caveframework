@@ -13,6 +13,9 @@ Install the requirements <br/>
 Install the root requirements <br/>
 ```sudo python3 -m pip install requirements_root.txt``` <br/>
 
+**ONE LINER**
+``` git clone https://github.com/caveframework/caveframework.git ; cd caveframework/ ; python3 -m pip install requirements.txt ; sudo python3 -m pip install requirements_root.txt ```
+
 # Usage
 
 Start the cave.py file

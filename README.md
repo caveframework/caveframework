@@ -1,6 +1,10 @@
 # Caveframework
 
-about
+Cave is a pentesting shell with the following features:
+
+......
+........
+....
 
 # Installation
 
@@ -31,3 +35,7 @@ get (varname)            ==> get the value of a variable <br/>
 ret (varname)            ==> remove a variable <br/>
 
 use (scriptname)         ==> set the script you want to use <br/>
+
+# Donate
+
+https://.../donate

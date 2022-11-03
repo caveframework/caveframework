@@ -4,10 +4,10 @@ about
 
 # Installation
 
-```git clone https://github.com/caveframework/caveframework.git```
-```cd caveframework/```
-```python3 -m pip install requirements.txt```
-```sudo python3 -m pip install requirements_root.txt```
+```git clone https://github.com/caveframework/caveframework.git``` <br/>
+```cd caveframework/``` <br/>
+```python3 -m pip install requirements.txt``` <br/>
+```sudo python3 -m pip install requirements_root.txt``` <br/>
 
 # Usage
 
